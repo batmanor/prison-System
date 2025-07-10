@@ -1,0 +1,144 @@
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=SYSTEM)(CID=(PROGRAM=C:\Users\G.B\Documents\Visual?Studio?2015\Projects\prisonSystem\prisonSystem\bin\Debug\prisonSystem.vshost.exe)(HOST=DESKTOP-OVOP2UP)(USER=G.B)))(ADDRESS=(PROTOCOL=TCP)(HOST=172.17.0.47)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 12-«»—Ì· -2025 09:45:39
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:  „ —›÷ «·« ’«·
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=SYSTEM)(CID=(PROGRAM=C:\Users\G.B\Documents\Visual?Studio?2015\Projects\prisonSystem\prisonSystem\bin\Debug\prisonSystem.vshost.exe)(HOST=DESKTOP-OVOP2UP)(USER=G.B)))(ADDRESS=(PROTOCOL=TCP)(HOST=172.17.0.47)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 12-«»—Ì· -2025 10:07:47
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:  „ —›÷ «·« ’«·
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=SYSTEM)(CID=(PROGRAM=C:\Users\G.B\Documents\Visual?Studio?2015\Projects\prisonSystem\prisonSystem\bin\Debug\prisonSystem.vshost.exe)(HOST=DESKTOP-OVOP2UP)(USER=G.B)))(ADDRESS=(PROTOCOL=TCP)(HOST=172.17.0.47)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 12-«»—Ì· -2025 10:08:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:  „ —›÷ «·« ’«·
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=SYSTEM)(CID=(PROGRAM=C:\Users\G.B\Documents\Visual?Studio?2015\Projects\prisonSystem\prisonSystem\bin\Debug\prisonSystem.vshost.exe)(HOST=DESKTOP-OVOP2UP)(USER=G.B)))(ADDRESS=(PROTOCOL=TCP)(HOST=172.17.0.47)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 18-«»—Ì· -2025 09:59:14
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:  „ —›÷ «·« ’«·
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=SYSTEM)(CID=(PROGRAM=C:\Users\G.B\Documents\Visual?Studio?2015\Projects\prisonSystem\prisonSystem\bin\Debug\prisonSystem.vshost.exe)(HOST=DESKTOP-OVOP2UP)(USER=G.B)))(ADDRESS=(PROTOCOL=TCP)(HOST=172.17.0.47)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 18-«»—Ì· -2025 09:59:25
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:  „ —›÷ «·« ’«·
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=SYSTEM)(CID=(PROGRAM=C:\Users\G.B\Documents\Visual?Studio?2015\Projects\prisonSystem\prisonSystem\bin\Debug\prisonSystem.vshost.exe)(HOST=DESKTOP-OVOP2UP)(USER=G.B)))(ADDRESS=(PROTOCOL=TCP)(HOST=172.17.0.47)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 18-«»—Ì· -2025 10:08:45
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:  „ —›÷ «·« ’«·
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=SYSTEM)(CID=(PROGRAM=C:\Users\G.B\Documents\Visual?Studio?2015\Projects\prisonSystem\prisonSystem\bin\Debug\prisonSystem.vshost.exe)(HOST=DESKTOP-OVOP2UP)(USER=G.B)))(ADDRESS=(PROTOCOL=TCP)(HOST=172.17.0.47)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 18-«»—Ì· -2025 10:10:22
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:  „ —›÷ «·« ’«·
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=SYSTEM)(CID=(PROGRAM=C:\Users\G.B\Documents\Visual?Studio?2015\Projects\prisonSystem\prisonSystem\bin\Debug\prisonSystem.vshost.exe)(HOST=DESKTOP-OVOP2UP)(USER=G.B)))(ADDRESS=(PROTOCOL=TCP)(HOST=172.17.0.47)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 04-„«ÌÊ  -2025 20:36:31
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:  „ —›÷ «·« ’«·
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
