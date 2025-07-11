@@ -1,5 +1,5 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/batmanor/prison-management-system)
-![GitHub issues](https://img.shields.io/github/issues/batmanor/prison-management-system)
+![GitHub last commit](https://img.shields.io/github/last-commit/batmanor/prison-System)
+![GitHub issues](https://img.shields.io/github/issues/batmanor/prison-System)
 
 # Prison Management System
 
