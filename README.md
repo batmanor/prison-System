@@ -1,3 +1,6 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/batmanor/prison-management-system)
+![GitHub issues](https://img.shields.io/github/issues/batmanor/prison-management-system)
+
 # Prison Management System
 
 ## Overview
@@ -45,6 +48,15 @@ prisonSystem.sln                --> Visual Studio solution file
 
 ---
 
+## Prerequisites
+
+* Visual Studio 2022 or later with .NET desktop development workload
+* Oracle Database (local or remote)
+* .NET Framework 4.x (ensure compatibility with your codebase)
+* Oracle.ManagedDataAccess.Core NuGet package (restored automatically)
+
+---
+
 ## Setup Instructions
 
 1. **Database Setup**
@@ -70,7 +82,7 @@ prisonSystem.sln                --> Visual Studio solution file
 
 ## Screenshots & Documentation
 
-![Use Case Diagram](project%20management/use-case-diagram.jpg)  
+![Use Case Diagram](project%20management/use-case-diagram.jpg)
 ![Entity Relational Diagram](project%20management/Entity%20Relational%20Diagram.jpg)
 
 ---
@@ -93,3 +105,5 @@ This project is for educational use only. No license is currently assigned.
 * Admin privileges may be required for certain operations.
 
 ---
+
+### hope my work help you! <3
