@@ -70,9 +70,8 @@ prisonSystem.sln                --> Visual Studio solution file
 
 ## Screenshots & Documentation
 
-!\[Use Case Diagram]\(\<project management/use-case-diagram.jpg>) &#x20;
-
-!\[Entity Relational Diagram]\(\<project management/Entity Relational Diagram.jpg>)
+![Use Case Diagram](project%20management/use-case-diagram.jpg)  
+![Entity Relational Diagram](project%20management/Entity%20Relational%20Diagram.jpg)
 
 ---
 
